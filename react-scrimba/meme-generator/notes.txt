@@ -1,0 +1,9 @@
+CSS 
+.form {
+    grid-template: 40px 40p / 1 fr fr ; 
+
+->  Shorthand property for grid-template-rows, grid-template-colmuns, and grid-areas properties
+Same As : 
+
+    
+}

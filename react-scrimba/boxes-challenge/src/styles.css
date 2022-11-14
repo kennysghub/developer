@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    border: solid black 1px;
+    height: 100px;
+    display: inline-block;
+    width: 100px;
+    margin: 10px;
+}
